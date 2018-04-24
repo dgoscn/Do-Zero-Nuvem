@@ -14,3 +14,4 @@ process.on('exit', () => {
 */
 //Encontrando os caminhos que o node procurará quando usamos um require para um número
 //console.log(module.paths)
+//# sourceMappingURL=main.js.map

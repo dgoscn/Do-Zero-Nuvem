@@ -11,5 +11,9 @@
   "license": "ISC",
   "dependencies": {
     "yargs": "^11.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^9.6.6",
+    "@types/yargs": "^11.0.0"
   }
 }
